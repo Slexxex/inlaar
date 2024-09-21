@@ -1,0 +1,142 @@
+body{
+    background-color: rgba(245, 245, 220, 0.589);
+}
+.navbar{
+    box-shadow: 0 0 20px;
+    color: black;
+    border-radius: 4rem;
+    text-align: center;
+    padding: 10px;
+}
+.home{
+    color: black;
+    padding: 10px;
+    transition: 1s ease;
+}
+.home:hover{
+    color: white;
+    filter: blur(2px);
+    transition: 1s ease;
+}
+.ileti{
+    color: black;
+    padding: 10px;
+    transition: 1s ease; 
+}
+.ileti:hover{
+    color: white;
+    filter: blur(2px);
+    transition: 1s ease;
+}
+.about{
+    color:black;
+    padding: 10px;
+    transition: 1s ease;
+}
+.about:hover{
+    color:white;
+    filter: blur(2px);
+    transition: 1s ease;
+}
+.rand{
+    color: black;
+    padding: 10px;
+    transition: 1s ease;
+}
+.rand:hover{
+    color: white;
+    filter: blur(2px);
+    transition: 1s ease;
+}
+.foto{
+    border-radius: 4rem;
+    box-shadow: 0 0 20px;
+    color:saddlebrown;
+    padding: 25px;
+}
+.dart{
+    width: 370px;
+    height: 200px;
+    padding: 10px;
+    border-radius: 4rem;
+    box-shadow: 0 0 20px;
+    transition: 1s ease;
+}
+.dart:hover{
+    color: black;
+    transition: 1s ease;
+}
+.ds{
+    width: 370px;
+    height: 200px;
+    padding: 10px;
+    border-radius: 4rem;
+    box-shadow: 0 0 20px;
+    transition: 1s ease;
+}
+.ds:hover{
+    color: black;
+    transition: 1s ease;
+}
+.cioo{
+    width: 370px;
+    height: 200px;
+    padding: 10px;
+    border-radius: 4rem;
+    box-shadow: 0 0 20px;
+    transition: 1s ease;
+}
+.cioo:hover{
+    color:black;
+    transition: 1s ease;
+}
+.goto{
+    width: 370px;
+    height: 200px;
+    padding: 10px;
+    border-radius: 4rem;
+    box-shadow:0 0 20px;
+    transition: 1s ease;
+}
+.goto:hover{
+    color: black;
+    transition: 1s ease;
+}
+.işat{
+    width: 370px;
+    height: 200px;
+    border-radius: 4rem;
+    box-shadow: 0 0 20px;
+    padding: 10px;
+    transition: 1s ease;
+}
+.işat:hover{
+    color:black;
+    transition: 1s ease;
+}
+.inşat1{
+    width: 370px;
+    height: 200px;
+    border-radius: 4rem;
+    box-shadow: 0 0 20px;
+    padding: 10px;
+    transition: 1s ease;
+}
+.inşat1:hover{
+    color:black;
+    transition: 1s ease;
+}
+.inşat2{
+ width: 400px;
+ height: 200px;
+ border-radius: 4rem;
+ box-shadow: 0 0 20px;
+ padding: 10px;
+ transition: 1s ease;
+ margin-right:10px;
+}
+.inşat2:hover{
+    color:black;
+    transition: 1s ease;
+}
+
